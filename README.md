@@ -1,2 +1,2 @@
 # iceberg-extensions
-Extend support for other tools in Apache Iceberg
+Add support for other tools in Apache Iceberg
